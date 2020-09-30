@@ -23,6 +23,11 @@ Solution to Database problems on <a href="https://leetcode.com/problemset/databa
     <td><a href="https://leetcode.com/problems/trips-and-users/">Trips and Users</a></td>
     <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Trips%20and%20Users.sql">Solution</a></td>
   </tr>
+ <tr>
+    <td>Hard</td>
+    <td><a href="https://leetcode.com/problems/department-top-three-salaries/">Department Top Three Salaries</a></td>
+    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Department%20Top%20Three%20Salaries.sql">Solution</a></td>
+  </tr>
 </table>  
 <body> 
 <html> 
