@@ -28,6 +28,16 @@ Solution to Database problems on <a href="https://leetcode.com/problemset/databa
     <td><a href="https://leetcode.com/problems/department-top-three-salaries/">Department Top Three Salaries</a></td>
     <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Department%20Top%20Three%20Salaries.sql">Solution</a></td>
   </tr>
+ <tr>
+    <td>Medium</td>
+    <td><a href="https://leetcode.com/problems/nth-highest-salary//">Nth Highest Salary</a></td>
+    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Nth%20Highest%20Salary.sql">Solution</a></td>
+  </tr>
+ <tr>
+    <td>Medium</td>
+    <td><a href="https://leetcode.com/problems/department-highest-salary/">Department Highest Salary</a></td>
+    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Department%20Highest%20Salary.sql">Solution</a></td>
+  </tr>
 </table>  
 <body> 
 <html> 
