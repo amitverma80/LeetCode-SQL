@@ -43,6 +43,11 @@ Solution to Database problems on <a href="https://leetcode.com/problemset/databa
     <td><a href="https://leetcode.com/problems/consecutive-numbers/">Consecutive Numbers</a></td>
     <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Consecutive%20Numbers.sql">Solution</a></td>
   </tr>
+  <tr>
+    <td>Medium</td>
+    <td><a href="https://leetcode.com/problems/rank-scores/">Rank Scores</a></td>
+    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Rank%20Scores.sql">Solution</a></td>
+  </tr>
 </table>  
 <body> 
 <html> 
