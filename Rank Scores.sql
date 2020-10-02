@@ -1,0 +1,1 @@
+select score, Dense_Rank() OVER (order by score desc)Rank  from Scores;
