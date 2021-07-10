@@ -10,7 +10,7 @@ with cte as
 DELETE FROM person where id in
 (
 	SELECT id FROM CTE where ranks!=1
-  
+) 
   
 -- Solution 2
 DELETE p from person p 
