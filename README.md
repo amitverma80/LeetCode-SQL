@@ -56,7 +56,7 @@ Solution to Database problems on <a href="https://leetcode.com/problemset/databa
   <tr>
     <td>Easy</td>
     <td><a href="https://leetcode.com/problems/delete-duplicate-emails/">Delete Duplicate Emails</a></td>
-    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Exchange%20Seats.sql">Solution</a></td>
+    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Delete%20Duplicate%20Emails">Solution</a></td>
   </tr>
 </table>  
 <body> 
