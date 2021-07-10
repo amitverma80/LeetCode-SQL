@@ -1,0 +1,22 @@
+-- Solution 1
+with cte as
+(
+	select id, email, Rank() OVER (partition by email order by id) ranks
+	from person where email in(
+		select email from person
+		group by email having count(email) >1
+	)
+)
+DELETE FROM person where id in
+(
+	SELECT id FROM CTE where ranks!=1
+  
+  
+-- Solution 2
+DELETE p from person p 
+inner join (
+    select MIN(id) id, email from person 
+    where email in(
+        select email from person group by email having count(email)>1
+        ) group by email
+) A On P.Id>A.id and p.email = a.email;
