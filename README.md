@@ -58,6 +58,11 @@ Solution to Database problems on <a href="https://leetcode.com/problemset/databa
     <td><a href="https://leetcode.com/problems/capital-gainloss/"> Capital Gain/Loss</a></td>
     <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Capital%20GainLoss.sql">Solution</a></td>
   </tr>
+    <tr>
+    <td>Medium</td>
+    <td><a href="https://leetcode.com/problems/market-analysis-i/"> Market Analysis</a></td>
+    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Capital%20GainLoss.sql">Solution</a></td>
+  </tr>
   <tr>
     <td>Easy</td>
     <td><a href="https://leetcode.com/problems/delete-duplicate-emails/">Delete Duplicate Emails</a></td>
