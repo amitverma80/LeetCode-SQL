@@ -61,7 +61,7 @@ Solution to Database problems on <a href="https://leetcode.com/problemset/databa
     <tr>
     <td>Medium</td>
     <td><a href="https://leetcode.com/problems/market-analysis-i/"> Market Analysis</a></td>
-    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Capital%20GainLoss.sql">Solution</a></td>
+    <td><a href="https://github.com/amitverma80/LeetCode-SQL/blob/master/Capital%20GainLoss.sql)">Solution</a></td>
   </tr>
   <tr>
     <td>Easy</td>
